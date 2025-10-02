@@ -2,8 +2,8 @@
 
 Welcome to the source code of my **personal portfolio website** – a space where I showcase my work, skills, and experiences as a **Front-End Engineer**.  
 Built with **Next.js, React, and TypeScript**, the site highlights clean design and smooth interactions, powered by **GSAP** and **Framer Motion** animations.
-However, the source code stays private (gotta keep some secrets and protect my hard works 😜), but you can explore the live portfolio here!
 
+However, the source code stays private (gotta keep some secrets and protect my hard works 😜), but you can explore the live portfolio here!
 👉 [Visit My Portfolio](https://tanchiater.com)
 
 ---
